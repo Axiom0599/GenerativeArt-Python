@@ -6,4 +6,4 @@ Samila is a generative art generator written in Python, Samila lets you create i
 
 
 lessons learned: you shouldn't run untrusted code as sudo.
-2>> an alternative to this could be by using flask and numpy. pillow for png, pycairo for svg
+2>> an alternative to this could be made by using flask and numpy. pillow for png, pycairo for svg
